@@ -30,6 +30,7 @@ public class pattern9 {
     }
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        System.out.println("enter the number of rows you want :");
         int totrow = sc.nextInt();
         butterfly_pattern(totrow);
     }
