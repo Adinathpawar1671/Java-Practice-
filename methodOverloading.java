@@ -20,4 +20,8 @@ class Calculator{
     public float sum(float a, float b){
         return a+b;
     }
+    // public int sum(int a, int b){
+    //     return a+b;
+    // }  🚫🙅 this wont work cause --> method sum(int,int) is already defined in class Calculator
+   
 }
