@@ -11,7 +11,6 @@ class Animal{
         System.out.println("eats grass");
     }
 }
-
 class Dog extends Animal{
     public void eat(){
         System.out.println("eats water");
