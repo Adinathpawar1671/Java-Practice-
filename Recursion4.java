@@ -1,6 +1,6 @@
 public class Recursion4 {
     public static Boolean checkSortedArr(int arr[], int i){
-        if(i== arr.length -1){
+        if(i == arr.length -1){
             return true;
         }
         if(arr[i]>arr[i+1]){
