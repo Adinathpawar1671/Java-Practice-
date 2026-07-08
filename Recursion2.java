@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Recursion2 {
     public static int Factorial(int num){
         int fact;
-        if(num==1){
+        if(num == 1){
             return 1;
         }
-        fact = num*Factorial(num-1);
+        fact = num * Factorial(num-1);
         // System.out.println(fact);
         return fact;
     }
