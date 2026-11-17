@@ -2,9 +2,9 @@ import java.util.*;
 public class Array1 {
     public static void main(String args[]){
 
-        //1. Creating Array;
-        // int marks[]= new int[50];
-        // int numbers[]={1,2,3};
+        // 1. Creating Array;
+        // int marks[] = new int[50];
+        // int numbers[] = {1,2,3};
         // String fruits[] = {"mango", "apple", "kiwi" };
 
         int marks[] = new int[100];

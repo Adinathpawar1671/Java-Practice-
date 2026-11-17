@@ -24,7 +24,7 @@ public class trappingrainWaterop {
 
     }
     public static void main(String args[]){
-        int arr[]={ 4,2,0,6,3,2,5};
+        int arr[]={ 4,2,0,6,0,1,3,2,5};
         Trapping_Water_Optimize(arr);
     }
 }

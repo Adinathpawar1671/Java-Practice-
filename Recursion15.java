@@ -11,11 +11,8 @@ public class Recursion15 {
         if (str.charAt(i) == str.charAt(j)) {
             System.out.println(subStr);
         }
-
         startEndSubString(i, j + 1, str, subStr);
-        
     }
-
 public static void main(String[] args) {
     String str = "abcabb";
         startEndSubString(0, 0, str, "");
